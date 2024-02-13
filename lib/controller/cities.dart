@@ -1,0 +1,23 @@
+List<String> city=[
+  "Ahmedabad",
+  "Surat",
+  "Vadodara",
+  "Rajkot",
+  "Gandhinagar",
+  "Bhavnagar",
+  "Jamnagar",
+  "Junagadh",
+  "Anand",
+  "Bharuch",
+  "Nadiad",
+  'Morbi',
+  "Surendranagar",
+  "Gandhidham",
+  "Vapi",
+  "Porbandar",
+  "Palanpur",
+  "Bhuj",
+  "Navsari",
+  "Veraval",
+
+];
